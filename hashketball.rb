@@ -1,4 +1,6 @@
-def game_hash_creator
+# require 'pry'
+
+def game_hash
 
 game_hash = {
   :home => {
@@ -89,40 +91,41 @@ game_hash = {
         :slam_dunks => 10
       },
       {
-        :player_name =>
-        :number =>
-        :shoe =>
-        :points =>
-        :rebounds =>
-        :assists =>
-        :steals =>
-        :blocks =>
-        :slam_dunks =>
+        :player_name => "DeSagna Diop",
+        :number => 2,
+        :shoe => 14,
+        :points => 24,
+        :rebounds => 12,
+        :assists => 12,
+        :steals => 4,
+        :blocks => 5,
+        :slam_dunks => 5
+      },
+      # binding.pry
+      {
+        :player_name => "Ben Gordon",
+        :number => 8,
+        :shoe => 15,
+        :points => 33,
+        :rebounds => 3,
+        :assists => 2,
+        :steals => 1,
+        :blocks => 1,
+        :slam_dunks => 0
       },
       {
-        :player_name =>
-        :number =>
-        :shoe =>
-        :points =>
-        :rebounds =>
-        :assists =>
-        :steals =>
-        :blocks =>
-        :slam_dunks =>
-      },
-      {
-        :player_name =>
-        :number =>
-        :shoe =>
-        :points =>
-        :rebounds =>
-        :assists =>
-        :steals =>
-        :blocks =>
-        :slam_dunks =>
-      },
+        :player_name => "Kemba Walker",
+        :number => 33,
+        :shoe => 15,
+        :points => 6,
+        :rebounds => 12,
+        :assists => 12,
+        :steals => 7,
+        :blocks => 5,
+        :slam_dunks => 12
+      }
     ]
-  },
+  }
 }
 
 end # Write your code here!
