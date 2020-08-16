@@ -79,7 +79,7 @@ game_hash = {
       },
       {
         :player_name => "Bismack Biyombo",
-        :number => 0, 
+        :number => 0,
         :shoe => 16,
         :points => 12,
         :rebounds => 4,
@@ -89,37 +89,37 @@ game_hash = {
         :slam_dunks => 10
       },
       {
-        :player_name => 
-        :number => 
-        :shoe => 
-        :points => 
-        :rebounds => 
-        :assists => 
-        :steals => 
-        :blocks => 
-        :slam_dunks => 
+        :player_name =>
+        :number =>
+        :shoe =>
+        :points =>
+        :rebounds =>
+        :assists =>
+        :steals =>
+        :blocks =>
+        :slam_dunks =>
       },
       {
-        :player_name => 
-        :number => 
-        :shoe => 
-        :points => 
-        :rebounds => 
-        :assists => 
-        :steals => 
-        :blocks => 
-        :slam_dunks => 
+        :player_name =>
+        :number =>
+        :shoe =>
+        :points =>
+        :rebounds =>
+        :assists =>
+        :steals =>
+        :blocks =>
+        :slam_dunks =>
       },
       {
-        :player_name => 
-        :number => 
-        :shoe => 
-        :points => 
-        :rebounds => 
-        :assists => 
-        :steals => 
-        :blocks => 
-        :slam_dunks => 
+        :player_name =>
+        :number =>
+        :shoe =>
+        :points =>
+        :rebounds =>
+        :assists =>
+        :steals =>
+        :blocks =>
+        :slam_dunks =>
       },
     ]
   },
